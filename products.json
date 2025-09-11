@@ -58,5 +58,11 @@
         "price": 1000,
         "description": "Description for Product 10",
         "image": "http://example.com/image10.jpg"
+    },
+    {
+        "name": "Product 10",
+        "price": 1000,
+        "description": "Description for Product 10",
+        "image": "http://example.com/image10.jpg"
     }
 ]
