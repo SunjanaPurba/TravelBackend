@@ -6,14 +6,18 @@ require("dotenv").config();
 const PORT = process.env.PORT || 5000;
 
 const products_routes = require("./routes/products");
-const hilltop_routes = require("./routes/hilltopRoutes")
+const hilltop_routes = require("./routes/hilltopRoutes");
+const seaBeach_routes = require("./routes/waterseabeachRoutes");
+const jungleForest_routes = require("./routes/jungleforestRoutes");
 
 app.get("/", (req, res) => {
     res.send("Hello World!");
 });
 
 app.use("/api/products", products_routes);
-app.use("/api/hilltops", hilltop_routes)
+app.use("/api/hilltops", hilltop_routes);
+app.use("/api/seabeaches", seaBeach_routes);
+app.use("/api/jungleforests", jungleForest_routes);
 
 
 const start = async () => {

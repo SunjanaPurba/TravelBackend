@@ -1,0 +1,74 @@
+{
+  "jungle_forest_destinations": [
+    {
+      "name": "Sundarbans Mangrove Forest",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sundarbans_1.jpg",
+      "short_description": "The Sundarbans is the largest mangrove forest in the world, home to the famous Bengal tiger and diverse wildlife.",
+      "location": "Khulna Division, Bangladesh",
+      "google_map": "https://goo.gl/maps/7tVtK3Vk7Zk"
+    },
+    {
+      "name": "Lawachara National Park",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lawachara_forest.jpg",
+      "short_description": "Lawachara is a tropical rainforest in Sylhet, famous for its rare primates like the hoolock gibbons.",
+      "location": "Srimangal, Moulvibazar, Sylhet Division",
+      "google_map": "https://goo.gl/maps/WqFSHz3LMXN2"
+    },
+    {
+      "name": "Sita Kunda",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sita_Kunda_Bangladesh.jpg",
+      "short_description": "A serene forest area with a natural pond, located in the Chittagong Hill Tracts.",
+      "location": "Rangamati, Chattogram Division",
+      "google_map": "https://goo.gl/maps/6mVw6VJ3uhK2"
+    },
+    {
+      "name": "Ruma Forest",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ruma_Forest_Bandarban.jpg",
+      "short_description": "Dense hilly forest in Bandarban, perfect for trekking and bird watching.",
+      "location": "Ruma, Bandarban, Chattogram Division",
+      "google_map": "https://goo.gl/maps/MfG7x2Qf6kQ2"
+    },
+    {
+      "name": "Chimbuk Hill Forest",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Chimbuk_Hill_Bandarban.jpg",
+      "short_description": "Forest on one of Bangladesh's highest peaks, offering rich biodiversity and scenic views.",
+      "location": "Bandarban Sadar, Bandarban, Chattogram Division",
+      "google_map": "https://goo.gl/maps/VySfyjZJfJU2"
+    },
+    {
+      "name": "Keokradong",
+      "image": "https://example.com/images/keokradong.jpg",
+      "short_description": "Keokradong is one of the highest peaks in Bangladesh, popular among trekkers for its adventurous trails and stunning scenery.",
+      "location": "Ruma, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/sLgqHLdL7Mt"
+    },
+    {
+      "name": "Tazing Dong",
+      "image": "https://example.com/images/tazing_dong.jpg",
+      "short_description": "Believed to be the highest peak in Bangladesh, Tazing Dong is a remote hilltop perfect for adventure seekers and nature lovers.",
+      "location": "Ruma, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/zW5tY8vQ42p"
+    },
+    {
+      "name": "Nafakhum Waterfall Hills",
+      "image": "https://example.com/images/nafakhum.jpg",
+      "short_description": "Located deep in Bandarban, the hills around Nafakhum Waterfall provide a thrilling trek with scenic rivers and forested peaks.",
+      "location": "Thanchi, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/omixk6PMY8u"
+    },
+    {
+      "name": "Debotakhum",
+      "image": "https://example.com/images/debotakhum.jpg",
+      "short_description": "Debotakhum is a hidden gem surrounded by towering hills and mysterious waterways, ideal for kayaking and exploration.",
+      "location": "Rowangchhari, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/xFrb8DJgWZC2"
+    },
+    {
+      "name": "Jaflong Hills",
+      "image": "https://example.com/images/jaflong.jpg",
+      "short_description": "Jaflong, near the Meghalaya border, is a scenic hill station famous for its rolling hills, stone collections, and tea gardens.",
+      "location": "Gowainghat, Sylhet",
+      "google_map": "https://goo.gl/maps/Fc7zokQoEQA2"
+    }
+  ]
+}

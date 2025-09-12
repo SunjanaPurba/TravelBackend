@@ -1,0 +1,130 @@
+{
+  "sea_beach_destinations": [
+    {
+      "name": "Cox's Bazar Sea Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHw8bmO9esvB7g0CZk_6NGtawTV2hs0pZZBA&s",
+      "short_description": "Cox's Bazar is the world's longest natural sandy sea beach, stretching about 120 km, famous for its golden sand, waves, and stunning sunsets.",
+      "location": "Cox's Bazar, Chattogram Division",
+      "google_map": "https://www.google.com/maps/search/Jaliapalong,%20Innai,%204750%20Cox%60s%20Bazar,%20Bangladesh"
+    },
+    {
+      "name": "Inani Beach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coral_rocks%2C_Inani_Beach.jpg/640px-Coral_rocks%2C_Inani_Beach.jpg",
+      "short_description": "Inani Beach is known for its coral stones, crystal-clear water, and calm environment, making it a peaceful alternative to Cox’s Bazar.",
+      "location": "Inani, Ukhiya, Cox's Bazar",
+      "google_map": "https://www.google.com/maps/place/Inani+Beach/@21.2307701,92.04703,16z/data=!3m1!4b1!4m6!3m5!1s0x30addb734c7ac3eb:0x1b8ecdeeaf8c2b5b!8m2!3d21.2296658!4d92.0475329!16s%2Fm%2F0pmfczc?entry=ttu&g_ep=EgoyMDI1MDkwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "name": "Himchari Beach",
+      "image": "https://i.ytimg.com/vi/gdDvq5GQFjI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQp_qa-Pbb8IFF1a7rXBnuZn6xxQ",
+      "short_description": "Himchari offers scenic views of hills meeting the sea, waterfalls, and panoramic viewpoints overlooking the Bay of Bengal.",
+      "location": "Himchari, Cox's Bazar",
+      "google_map": "https://www.google.com/maps/search/himchari+beach/@21.3518204,92.0285225,15z?entry=ttu&g_ep=EgoyMDI1MDkwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "name": "Laboni Beach",
+      "image": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/06/29/a1ec98e9cbd6cbfc4dc89c28c68c3201_1000x1000.jpg",
+      "short_description": "The most popular and accessible part of Cox's Bazar beach, Laboni is vibrant with tourists, shops, and local seafood vendors.",
+      "location": "Cox's Bazar Sadar, Cox's Bazar",
+      "google_map": "https://www.google.com/maps/place/Laboni+Beach/@21.4290462,91.9692886,15z/data=!3m1!4b1!4m6!3m5!1s0x30adc86810c154b1:0xc1b04cf2813287f9!8m2!3d21.4293125!4d91.9684297!16s%2Fg%2F1td2q2zq?entry=ttu&g_ep=EgoyMDI1MDkwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "name": "Kolatoli Beach",
+      "image": "https://d34vm3j4h7f97z.cloudfront.net/original/4X/3/3/d/33d67385f6a69503528da13ccad19a8399eea53a.jpeg",
+      "short_description": "Kolatoli Beach is famous for its adventure sports, beach activities, and modern resorts catering to tourists.",
+      "location": "Kolatoli, Cox's Bazar",
+      "google_map": "https://goo.gl/maps/f9LJ4MPQp3F2"
+    },
+    {
+      "name": "Teknaf Sea Beach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Teknaf_Beach.jpg",
+      "short_description": "Located at the southern tip of Bangladesh, Teknaf Sea Beach offers quiet sandy shores with views of Myanmar across the Naf River.",
+      "location": "Teknaf, Cox's Bazar",
+      "google_map": "https://www.google.com/maps/place/Kolatoli+Beach/@21.4155931,91.9769194,16z/data=!3m1!4b1!4m6!3m5!1s0x30adc8875e050add:0x7cf298d992b38e3!8m2!3d21.414334!4d91.9831829!16s%2Fg%2F1v6gbkpz?entry=ttu&g_ep=EgoyMDI1MDkwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "name": "Saint Martin’s Island",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Saint_Martins_Island_with_boats_in_foreground.jpg",
+      "short_description": "Saint Martin’s is the only coral island in Bangladesh, surrounded by turquoise waters, coconut palms, and pristine sandy beaches.",
+      "location": "Saint Martin’s Island, Teknaf, Cox's Bazar",
+      "google_map": "https://www.google.com/maps/place/Saint+Martins+Island/@20.6237016,92.3233948,13z/data=!4m6!3m5!1s0x30ae23666ddf01b1:0xfb9c82c83dacf078!8m2!3d20.6237016!4d92.3233948!16s%2Fg%2F11bxdt6xvv?entry=ttu&g_ep=EgoyMDI1MDkwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "name": "Patenga Sea Beach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Side_view_of_Patenga_sea_beach_%2808%29.jpg",
+      "short_description": "Patenga Beach is located near Chattogram city, popular for its concrete embankments, seafood stalls, and views of ships at the port.",
+      "location": "Patenga, Chattogram",
+      "google_map": "https://www.google.com/maps/place/Patenga+Sea+Beach/@22.2359894,91.7860378,16z/data=!3m1!4b1!4m6!3m5!1s0x30acde2c8d9eadf3:0xe8d981f0a04481dd!8m2!3d22.2352023!4d91.7913938!16zL20vMDltbTdo?entry=ttu&g_ep=EgoyMDI1MDkwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "name": "Parki Beach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Parki_Beach.jpg",
+      "short_description": "Parki Beach offers a peaceful escape with long sandy stretches, mangroves, and a view of ships in the Karnaphuli River estuary.",
+      "location": "Anwara, Chattogram",
+      "google_map": "https://goo.gl/maps/zwnNkMqk3a72"
+    },
+    {
+      "name": "Kuakata Sea Beach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kuakata_Beach.jpg",
+      "short_description": "Known as the 'Daughter of the Sea', Kuakata offers the rare beauty of both sunrise and sunset views over the Bay of Bengal.",
+      "location": "Kuakata, Patuakhali, Barishal Division",
+      "google_map": "https://goo.gl/maps/MmsoQJX2QX82"
+    },
+    {
+      "name": "Sonadia Island Beach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sonadia_Island.jpg",
+      "short_description": "Sonadia Island is a tranquil beach destination known for its biodiversity, mangroves, and migratory birds.",
+      "location": "Moheshkhali, Cox's Bazar",
+      "google_map": "https://goo.gl/maps/2e6LfWp7c8C2"
+    },
+    {
+      "name": "Moheshkhali Sea Beach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Moheshkhali_Beach.jpg",
+      "short_description": "Moheshkhali combines hills and sea, famous for its salt fields, Buddhist temples, and serene beaches.",
+      "location": "Moheshkhali, Cox's Bazar",
+      "google_map": "https://goo.gl/maps/df7dMZc8oFG2"
+    },
+    {
+      "name": "Shamlapur Beach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Shamlapur_Beach.jpg",
+      "short_description": "Shamlapur is a quiet beach near Teknaf, less crowded and perfect for enjoying fishing village life and calm coastal beauty.",
+      "location": "Shamlapur, Teknaf, Cox's Bazar",
+      "google_map": "https://goo.gl/maps/F4RBHkQ7UjL2"
+    },
+    {
+      "name": "Kaptai Lake",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kaptai_Lake_Bandarban.jpg",
+      "short_description": "The largest man-made lake in Bangladesh, Kaptai Lake is surrounded by hills and forests, perfect for boating and scenic views.",
+      "location": "Kaptai, Rangamati, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/2XhFhdkMV6H2"
+    },
+    {
+      "name": "Foy's Lake",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Foy%27s_Lake_Chittagong.jpg",
+      "short_description": "A beautiful lake surrounded by hills and gardens in Chattogram, popular for leisure, boating, and amusement parks.",
+      "location": "Chattogram, Chattogram Division",
+      "google_map": "https://goo.gl/maps/zH7Y39U8L9T2"
+    },
+    {
+      "name": "Patenga Lake",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Patenga_Lake_Chittagong.jpg",
+      "short_description": "A scenic lake near the Patenga sea beach in Chattogram, offering sunset views and a peaceful environment.",
+      "location": "Patenga, Chattogram",
+      "google_map": "https://goo.gl/maps/f6aE4nHLcQ42"
+    },
+    {
+      "name": "Dhanmondi Lake",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dhanmondi_Lake_Bangladesh.jpg",
+      "short_description": "A man-made lake in the heart of Dhaka, surrounded by parks, walking trails, and recreational areas.",
+      "location": "Dhanmondi, Dhaka",
+      "google_map": "https://goo.gl/maps/F4d1eUhzHkH2"
+    },
+    {
+      "name": "Rangamati Lake",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rangamati_Lake.jpg",
+      "short_description": "A picturesque lake in the hill district of Rangamati, famous for boat rides, hills, and tribal culture.",
+      "location": "Rangamati, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/MnXxTqVZL252"
+    }
+  ]
+}
