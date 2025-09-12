@@ -1,0 +1,95 @@
+{
+  "hilltop_destinations": [
+    {
+      "name": "Nilgiri",
+      "image": "https://example.com/images/nilgiri.jpg",
+      "short_description": "Nilgiri is a breathtaking hill resort located in Bandarban, known for its panoramic views of the clouds, hills, and sunrise.",
+      "location": "Thanchi, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/zNh5iMZLVXU2"
+    },
+    {
+      "name": "Nilachal",
+      "image": "https://example.com/images/nilachal.jpg",
+      "short_description": "A scenic viewpoint near Bandarban town, Nilachal offers stunning views of rolling hills and floating clouds, especially at sunset.",
+      "location": "Tigerpara, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/9e93T9D3XK92"
+    },
+    {
+      "name": "Sajek Valley",
+      "image": "https://example.com/images/sajek_valley.jpg",
+      "short_description": "Often called the 'Queen of Hills', Sajek Valley is famous for its sea of clouds, lush green mountains, and serene tribal villages.",
+      "location": "Baghaichhari, Rangamati, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/1usw9FJ3kEo"
+    },
+    {
+      "name": "Chimbuk Hill",
+      "image": "https://example.com/images/chimbuk_hill.jpg",
+      "short_description": "Chimbuk is the third highest mountain in Bangladesh and offers mesmerizing views of distant hills and tribal villages.",
+      "location": "Bandarban Sadar, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/VySfyjZJfJU2"
+    },
+    {
+      "name": "Keokradong",
+      "image": "https://example.com/images/keokradong.jpg",
+      "short_description": "Keokradong is one of the highest peaks in Bangladesh, popular among trekkers for its adventurous trails and stunning scenery.",
+      "location": "Ruma, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/sLgqHLdL7Mt"
+    },
+    {
+      "name": "Tazing Dong",
+      "image": "https://example.com/images/tazing_dong.jpg",
+      "short_description": "Believed to be the highest peak in Bangladesh, Tazing Dong is a remote hilltop perfect for adventure seekers and nature lovers.",
+      "location": "Ruma, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/zW5tY8vQ42p"
+    },
+    {
+      "name": "Nafakhum Waterfall Hills",
+      "image": "https://example.com/images/nafakhum.jpg",
+      "short_description": "Located deep in Bandarban, the hills around Nafakhum Waterfall provide a thrilling trek with scenic rivers and forested peaks.",
+      "location": "Thanchi, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/omixk6PMY8u"
+    },
+    {
+      "name": "Debotakhum",
+      "image": "https://example.com/images/debotakhum.jpg",
+      "short_description": "Debotakhum is a hidden gem surrounded by towering hills and mysterious waterways, ideal for kayaking and exploration.",
+      "location": "Rowangchhari, Bandarban, Chattogram Hill Tracts",
+      "google_map": "https://goo.gl/maps/xFrb8DJgWZC2"
+    },
+    {
+      "name": "Jaflong Hills",
+      "image": "https://example.com/images/jaflong.jpg",
+      "short_description": "Jaflong, near the Meghalaya border, is a scenic hill station famous for its rolling hills, stone collections, and tea gardens.",
+      "location": "Gowainghat, Sylhet",
+      "google_map": "https://goo.gl/maps/Fc7zokQoEQA2"
+    },
+    {
+      "name": "Ratargul Swamp Forest Hill View",
+      "image": "https://example.com/images/ratargul.jpg",
+      "short_description": "Though famous for its swamp forest, Ratargul also offers surrounding hill views that create a unique blend of greenery and water.",
+      "location": "Gowainghat, Sylhet",
+      "google_map": "https://goo.gl/maps/PKkVkwA5eMo"
+    },
+    {
+      "name": "Madhabkunda Hill and Waterfall",
+      "image": "https://example.com/images/madhabkunda.jpg",
+      "short_description": "Home to Bangladesh's largest waterfall, Madhabkunda is surrounded by small hills and tea estates, perfect for nature lovers.",
+      "location": "Barlekha, Moulvibazar, Sylhet Division",
+      "google_map": "https://goo.gl/maps/N3NmPG2d9o52"
+    },
+    {
+      "name": "Lawachara Hill Trails",
+      "image": "https://example.com/images/lawachara.jpg",
+      "short_description": "Lawachara National Park is known for its hilly rainforest trails, rare wildlife, and scenic tea garden views.",
+      "location": "Srimangal, Moulvibazar, Sylhet Division",
+      "google_map": "https://goo.gl/maps/PHuXg8r4NwK2"
+    },
+    {
+      "name": "Srimangal Tea Hill Viewpoints",
+      "image": "https://example.com/images/srimangal_tea_hills.jpg",
+      "short_description": "Known as the 'Tea Capital of Bangladesh', Srimangal is full of small tea-covered hills offering peaceful hiking trails.",
+      "location": "Srimangal, Moulvibazar, Sylhet Division",
+      "google_map": "https://goo.gl/maps/7ahA3R5Pw9k"
+    }
+  ]
+}
