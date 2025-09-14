@@ -1,0 +1,95 @@
+{
+  "holidays": [
+    {
+      "name": "New Year's Day",
+      "date": "2025-01-01",
+      "description": "Celebration of the Gregorian New Year across Bangladesh.",
+      "country": "Bangladesh",
+      "type": "Public"
+    },
+    {
+      "name": "International Mother Language Day",
+      "date": "2025-02-21",
+      "description": "Commemoration of the martyrs of the 1952 Language Movement.",
+      "country": "Bangladesh",
+      "type": "Public"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2025-03-26",
+      "description": "Celebrates Bangladesh's independence in 1971.",
+      "country": "Bangladesh",
+      "type": "Public"
+    },
+    {
+      "name": "Eid ul-Fitr",
+      "date": "2025-03-31",
+      "description": "Islamic festival marking the end of Ramadan.",
+      "country": "Bangladesh",
+      "type": "Festival"
+    },
+    {
+      "name": "Biju (Chakma New Year)",
+      "date": "2025-04-12",
+      "description": "Chakma community's traditional New Year festival with cultural programs and water festival.",
+      "country": "Bangladesh",
+      "type": "Ethnic Festival"
+    },
+    {
+      "name": "Baisabi Festival (Chakma, Marma, Tripura)",
+      "date": "2025-04-13",
+      "description": "Joint celebration of the indigenous communities in the Chittagong Hill Tracts, marking their traditional New Year.",
+      "country": "Bangladesh",
+      "type": "Ethnic Festival"
+    },
+    {
+      "name": "Pahela Baishakh (Bengali New Year)",
+      "date": "2025-04-14",
+      "description": "Bengali New Year celebration across Bangladesh with fairs, cultural events, and Mangal Shobhajatra.",
+      "country": "Bangladesh",
+      "type": "Festival"
+    },
+    {
+      "name": "Eid ul-Adha",
+      "date": "2025-06-06",
+      "description": "Islamic festival of sacrifice, commemorating the devotion of Ibrahim (Abraham).",
+      "country": "Bangladesh",
+      "type": "Festival"
+    },
+    {
+      "name": "Ashari Purnima (Buddhist)",
+      "date": "2025-07-09",
+      "description": "Sacred Buddhist festival marking the start of Vassa (Buddhist Lent).",
+      "country": "Bangladesh",
+      "type": "Religious Festival"
+    },
+    {
+      "name": "Durga Puja",
+      "date": "2025-10-01",
+      "description": "Major Hindu festival celebrating Goddess Durga with colorful rituals and pujas.",
+      "country": "Bangladesh",
+      "type": "Festival"
+    },
+    {
+      "name": "Probarona Purnima (Buddhist)",
+      "date": "2025-10-07",
+      "description": "Buddhist festival observed by lighting lamps and floating paper lanterns in rivers.",
+      "country": "Bangladesh",
+      "type": "Religious Festival"
+    },
+    {
+      "name": "National Victory Day",
+      "date": "2025-12-16",
+      "description": "Marks the victory of Bangladesh over Pakistani forces in 1971.",
+      "country": "Bangladesh",
+      "type": "Public"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2025-12-25",
+      "description": "Christian community celebrates the birth of Jesus Christ.",
+      "country": "Bangladesh",
+      "type": "Religious Festival"
+    }
+  ]
+}

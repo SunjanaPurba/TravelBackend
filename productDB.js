@@ -1,15 +1,18 @@
 require('dotenv').config();
+
 const connectDB = require('./db/connect');
 const Product = require('./models/product');
 const Hilltop = require('./models/hilltop'); // ✅ Capitalize model name
 const seaBeach = require('./models/waterseabeach');
 const jungleForest = require('./models/jungleforest');
+const Holiday = require('./models/holidays');
 
 const ProductsJson = require('./products.json');
 const hillTopJson = require('./hilltop.json');
 const seaBeachJson = require('./waterseabeach.json');
 const jungleForestJson = require('./jungleforest.json');
 
+const holidaysJson = require("./holidays.json");
 
 const start = async () => {
     try {
@@ -31,7 +34,9 @@ const start = async () => {
         // Seed JungleForest collection
         await jungleForest.deleteMany();
         await jungleForest.create(jungleForestJson.jungle_forest_destinations);
-
+        
+        await Holiday.deleteMany();
+        await Holiday.create(holidaysJson.holidays);
         
         console.log('✅ Database seeding completed successfully!');
     } catch (error) {
