@@ -1,0 +1,46 @@
+{
+  "tea_gardens_valleys_destinations": [
+    {
+      "name": "Srimangal Tea Gardens",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sreemangal_Tea_Garden.jpg",
+      "short_description": "The tea capital of Bangladesh, home to endless green estates and the famous Seven-Layered Tea.",
+      "location": "Srimangal, Moulvibazar, Sylhet Division",
+      "google_map": "https://goo.gl/maps/kpHw7m5PxhN2"
+    },
+    {
+      "name": "Lawachara National Park",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lawachara_National_Park.jpg",
+      "short_description": "A lush rainforest within tea country, offering wildlife spotting and serene trails.",
+      "location": "Moulvibazar, Sylhet Division",
+      "google_map": "https://goo.gl/maps/PL8k6MNRgnt"
+    },
+    {
+      "name": "Jaflong Tea Estates",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Jaflong_Sylhet.jpg",
+      "short_description": "Border tea gardens with breathtaking views of the Khasi hills and Dawki River.",
+      "location": "Jaflong, Sylhet Division",
+      "google_map": "https://goo.gl/maps/5MZ1W9RrkRt"
+    },
+    {
+      "name": "Malnichhera Tea Estate",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Malnichhera_Tea_Estate.jpg",
+      "short_description": "The oldest tea garden in the subcontinent, established in 1849 by the British.",
+      "location": "Sylhet Sadar, Sylhet Division",
+      "google_map": "https://goo.gl/maps/8xwsFJ1e3o82"
+    },
+    {
+      "name": "Finlay Tea Estate",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Finlay_Tea_Estate_Sylhet.jpg",
+      "short_description": "One of the largest and most scenic estates operated by James Finlay & Co.",
+      "location": "Sylhet Division",
+      "google_map": "https://goo.gl/maps/D71aYvLUhbw"
+    },
+    {
+      "name": "Lalakhal Valley",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lalakhal_Sylhet.jpg",
+      "short_description": "Known for its emerald blue river and surrounding tea gardens, perfect for boat rides.",
+      "location": "Sylhet Division",
+      "google_map": "https://goo.gl/maps/8vX7j1vXshF2"
+    }
+  ]
+}

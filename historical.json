@@ -1,0 +1,109 @@
+{
+  "historical_cultural_destinations": [
+    {
+      "name": "Sixty Dome Mosque",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sixty_Dome_Mosque_Bagerhat.jpg",
+      "short_description": "A UNESCO World Heritage Site built in the 15th century by Khan Jahan Ali, famous for its 60 stone pillars and 77 domes.",
+      "location": "Bagerhat, Khulna Division",
+      "google_map": "https://goo.gl/maps/3smyb3LrH6u"
+    },
+    {
+      "name": "Mahasthangarh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mahasthangarh_Bogra.jpg",
+      "short_description": "The oldest archaeological site in Bangladesh, once the capital of the ancient Pundra Kingdom dating back to the 3rd century BCE.",
+      "location": "Bogra, Rajshahi Division",
+      "google_map": "https://goo.gl/maps/fyfwB8BgbQ62"
+    },
+    {
+      "name": "Paharpur Buddhist Vihara",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Somapura_Mahavihara.jpg",
+      "short_description": "A UNESCO World Heritage Site, the Somapura Mahavihara is one of the largest Buddhist monasteries in the Indian subcontinent.",
+      "location": "Naogaon, Rajshahi Division",
+      "google_map": "https://goo.gl/maps/B6qKoTh8f412"
+    },
+    {
+      "name": "Ahsan Manzil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ahsan_Manzil.jpg",
+      "short_description": "The Pink Palace of the Nawabs of Dhaka, built in the 19th century as a symbol of luxury and Mughal architecture.",
+      "location": "Dhaka, Dhaka Division",
+      "google_map": "https://goo.gl/maps/7vTdxjJSokJ2"
+    },
+    {
+      "name": "Lalbagh Fort",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lalbagh_Fort_Dhaka.jpg",
+      "short_description": "An incomplete Mughal fort complex started in 1678 by Prince Muhammad Azam, featuring a mosque, tomb, and gardens.",
+      "location": "Dhaka, Dhaka Division",
+      "google_map": "https://goo.gl/maps/7hfR6LNX5Yt"
+    },
+    {
+      "name": "Mainamati Ruins",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Mainamati_Comilla.jpg",
+      "short_description": "A group of Buddhist archaeological sites dating back to the 8th–12th centuries, including the Salban Vihara.",
+      "location": "Comilla, Chattogram Division",
+      "google_map": "https://goo.gl/maps/jx6Xcd5z2Rs"
+    },
+    {
+      "name": "Panam City",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Panam_Nagar_Sonargaon.jpg",
+      "short_description": "An abandoned 19th-century trading city of Hindu merchants, featuring colonial-era architecture and ancient mansions.",
+      "location": "Sonargaon, Narayanganj, Dhaka Division",
+      "google_map": "https://goo.gl/maps/ZkCR3ZxY3s72"
+    },
+    {
+      "name": "Bagha Mosque",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bagha_Mosque.jpg",
+      "short_description": "A 16th-century terracotta mosque built by Sultan Nusrat Shah, known for its intricate brick patterns.",
+      "location": "Rajshahi, Rajshahi Division",
+      "google_map": "https://goo.gl/maps/4E5xDkDxycC2"
+    },
+    {
+      "name": "Kantajew Temple",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Kantajew_Temple.jpg",
+      "short_description": "A late 18th-century Hindu temple dedicated to Krishna, famous for its stunning terracotta panels and ornate carvings.",
+      "location": "Dinajpur, Rangpur Division",
+      "google_map": "https://goo.gl/maps/P7huw3qgMyN2"
+    },
+    {
+      "name": "Star Mosque",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Star_Mosque_Dhaka.jpg",
+      "short_description": "A striking Mughal-style mosque decorated with thousands of blue stars made of Japanese porcelain.",
+      "location": "Dhaka, Dhaka Division",
+      "google_map": "https://goo.gl/maps/mMBdV1BoTTy"
+    },
+    {
+      "name": "Sonargaon Folk Art and Craft Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sonargaon_Folk_Art_Museum.jpg",
+      "short_description": "Once the capital of medieval Bengal, Sonargaon now hosts a folk art museum preserving traditional crafts and heritage.",
+      "location": "Sonargaon, Narayanganj, Dhaka Division",
+      "google_map": "https://goo.gl/maps/4ybmD9V8LhQ2"
+    },
+    {
+      "name": "Idrakpur Fort",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Idrakpur_Fort.jpg",
+      "short_description": "A 17th-century Mughal fort built by Mir Jumla to protect Dhaka from pirates and invaders.",
+      "location": "Munshiganj, Dhaka Division",
+      "google_map": "https://goo.gl/maps/oaL6EZ8H7Bp"
+    },
+    {
+      "name": "Shat Gambuj Bridge",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Shat_Gambuj_Bridge_Bagerhat.jpg",
+      "short_description": "A 16th-century bridge with unique terracotta design built during the Sultanate period.",
+      "location": "Bagerhat, Khulna Division",
+      "google_map": "https://goo.gl/maps/G44DQt9mLkR2"
+    },
+    {
+      "name": "Bara Katra",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bara_Katra_Dhaka.jpg",
+      "short_description": "One of Dhaka’s oldest Mughal-era caravanserais, built in the 17th century for merchants and travelers.",
+      "location": "Dhaka, Dhaka Division",
+      "google_map": "https://goo.gl/maps/RU2ZPBXrrVA2"
+    },
+    {
+      "name": "Curzon Hall",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Curzon_Hall_Dhaka.jpg",
+      "short_description": "A grand colonial-era building named after Lord Curzon, now part of the University of Dhaka.",
+      "location": "Dhaka, Dhaka Division",
+      "google_map": "https://goo.gl/maps/vopDz2Fpi9n"
+    }
+  ]
+}

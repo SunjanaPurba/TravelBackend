@@ -1,0 +1,46 @@
+{
+  "islands_destinations": [
+    {
+      "name": "Saint Martin’s Island",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/St._Martin%27s_Island.jpg",
+      "short_description": "The only coral island of Bangladesh, famous for crystal-clear waters, coconut palms, and marine life.",
+      "location": "Teknaf, Cox’s Bazar, Chattogram Division",
+      "google_map": "https://goo.gl/maps/1zqmvfF5N2x"
+    },
+    {
+      "name": "Nijhum Dwip",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nijhum_Dwip.jpg",
+      "short_description": "A quiet island and wildlife sanctuary with deer herds, mangroves, and pristine beaches.",
+      "location": "Noakhali, Chattogram Division",
+      "google_map": "https://goo.gl/maps/m6Tf3jkw5vJ2"
+    },
+    {
+      "name": "Kutubdia Island",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Kutubdia_Lighthouse.jpg",
+      "short_description": "Known for its historic lighthouse, wind farms, and peaceful sandy beaches.",
+      "location": "Cox’s Bazar, Chattogram Division",
+      "google_map": "https://goo.gl/maps/9D6xHFx78uM2"
+    },
+    {
+      "name": "Sonadia Island",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sonadia_Island.jpg",
+      "short_description": "An ecologically rich island with mangroves and a sanctuary for migratory birds and turtles.",
+      "location": "Cox’s Bazar, Chattogram Division",
+      "google_map": "https://goo.gl/maps/yQq3x9j8oNR2"
+    },
+    {
+      "name": "Moheshkhali Island",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Moheshkhali_Island.jpg",
+      "short_description": "A hilly island with salt fields, Adinath Temple, and scenic coastal views.",
+      "location": "Cox’s Bazar, Chattogram Division",
+      "google_map": "https://goo.gl/maps/x6d1oXbDEvF2"
+    },
+    {
+      "name": "Dublar Char",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Dublar_Char.jpg",
+      "short_description": "A small island inside the Sundarbans, famous for the annual Rash Mela festival and fishing activities.",
+      "location": "Khulna Division",
+      "google_map": "https://goo.gl/maps/HkB7uRmxCYk"
+    }
+  ]
+}

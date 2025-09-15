@@ -1,0 +1,46 @@
+{
+  "rivers_lakes_destinations": [
+    {
+      "name": "Kaptai Lake",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kaptai_Lake.jpg",
+      "short_description": "The largest man-made lake in Bangladesh, surrounded by lush green hills and serene waters ideal for boating.",
+      "location": "Rangamati, Chattogram Division",
+      "google_map": "https://goo.gl/maps/ELwFeGD9aJ72"
+    },
+    {
+      "name": "Foy’s Lake",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Foy%27s_Lake_Chattogram.jpg",
+      "short_description": "A scenic artificial lake created during the British period, featuring amusement parks and boating facilities.",
+      "location": "Chattogram, Chattogram Division",
+      "google_map": "https://goo.gl/maps/c8HRLCZZ9X72"
+    },
+    {
+      "name": "Ratangchhari Lakes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ratangchhari_Lake_Rangamati.jpg",
+      "short_description": "Natural hilltop lakes hidden in the Chittagong Hill Tracts, famous for trekking and tranquil scenery.",
+      "location": "Rangamati, Chattogram Division",
+      "google_map": "https://goo.gl/maps/wLW84eGHd5F2"
+    },
+    {
+      "name": "Jamuna River",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jamuna_River_Bangladesh.jpg",
+      "short_description": "One of the three major rivers of Bangladesh, offering river cruises and views of the massive Bangabandhu Bridge.",
+      "location": "Sirajganj, Tangail, Dhaka Division",
+      "google_map": "https://goo.gl/maps/CkpJbYH6wNJ2"
+    },
+    {
+      "name": "Sajek River View",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sajek_Valley_River_View.jpg",
+      "short_description": "The scenic river running beside Sajek Valley provides picturesque reflections of the surrounding hills.",
+      "location": "Rangamati, Chattogram Division",
+      "google_map": "https://goo.gl/maps/QQ1sdnTK6oB2"
+    },
+    {
+      "name": "Paddma (Padma) River Cruise",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Padma_River.jpg",
+      "short_description": "A majestic river and lifeline of Bangladesh, ideal for boat cruises during sunset.",
+      "location": "Rajshahi, Dhaka Division",
+      "google_map": "https://goo.gl/maps/PHPR7vdkmtP2"
+    }
+  ]
+}
