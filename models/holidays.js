@@ -5,11 +5,7 @@ const holidaySchema = new mongoose.Schema({
   date: { type: Date, required: true },
   description: { type: String },
   country: { type: String, default: "Bangladesh" },
-  type: {
-    type: String,
-    enum: ["Public", "Festival", "Religious Festival", "Ethnic Festival"],
-    default: "Festival"
-  }
+  type: { type: String, default: "Festival" } // ✅ No enum restriction
 });
 
 module.exports = mongoose.model("Holiday", holidaySchema);

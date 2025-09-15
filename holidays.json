@@ -1,95 +1,200 @@
 {
   "holidays": [
     {
-      "name": "New Year's Day",
-      "date": "2025-01-01",
-      "description": "Celebration of the Gregorian New Year across Bangladesh.",
-      "country": "Bangladesh",
-      "type": "Public"
+      "name": "New Year",
+      "month": 1,
+      "day": 1,
+      "description": "Gregorian New Year",
+      "type": "Public",
+      "recurring": true
     },
     {
       "name": "International Mother Language Day",
-      "date": "2025-02-21",
-      "description": "Commemoration of the martyrs of the 1952 Language Movement.",
-      "country": "Bangladesh",
-      "type": "Public"
+      "month": 2,
+      "day": 21,
+      "description": "Honoring the martyrs of 1952",
+      "type": "National",
+      "recurring": true
+    },
+    {
+      "name": "Pohela Falgun",
+      "month": 2,
+      "day": 13,
+      "description": "First day of Spring in Bengali calendar",
+      "type": "Cultural",
+      "recurring": true
+    },
+    {
+      "name": "Maghi Purnima",
+      "month": 2,
+      "day": 11,
+      "description": "Important Buddhist festival",
+      "type": "Religious",
+      "recurring": true
     },
     {
       "name": "Independence Day",
-      "date": "2025-03-26",
-      "description": "Celebrates Bangladesh's independence in 1971.",
-      "country": "Bangladesh",
-      "type": "Public"
+      "month": 3,
+      "day": 26,
+      "description": "Bangladesh Independence Day",
+      "type": "National",
+      "recurring": true
     },
     {
-      "name": "Eid ul-Fitr",
+      "name": "Pohela Boishakh",
+      "month": 4,
+      "day": 14,
+      "description": "Bengali New Year",
+      "type": "Cultural",
+      "recurring": true
+    },
+    {
+      "name": "May Day",
+      "month": 5,
+      "day": 1,
+      "description": "International Workers’ Day",
+      "type": "Public",
+      "recurring": true
+    },
+    {
+      "name": "Buddha Purnima",
+      "month": 5,
+      "day": 12,
+      "description": "Birth of Lord Buddha",
+      "type": "Religious",
+      "recurring": true
+    },
+    {
+      "name": "Nobanno",
+      "month": 11,
+      "day": 14,
+      "description": "Harvest festival of Bengal",
+      "type": "Cultural",
+      "recurring": true
+    },
+    {
+      "name": "Victory Day",
+      "month": 12,
+      "day": 16,
+      "description": "Victory Day of Bangladesh",
+      "type": "National",
+      "recurring": true
+    },
+    {
+      "name": "Christmas",
+      "month": 12,
+      "day": 25,
+      "description": "Christmas Day",
+      "type": "Religious",
+      "recurring": true
+    },
+
+    {
+      "name": "Eid al-Fitr Day 1",
+      "date": "2025-03-30",
+      "description": "Festival of breaking the fast (Eid al-Fitr)",
+      "type": "Religious",
+      "recurring": false
+    },
+    {
+      "name": "Eid al-Fitr Day 2",
       "date": "2025-03-31",
-      "description": "Islamic festival marking the end of Ramadan.",
-      "country": "Bangladesh",
-      "type": "Festival"
+      "description": "Festival of breaking the fast (Eid al-Fitr)",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "Biju (Chakma New Year)",
-      "date": "2025-04-12",
-      "description": "Chakma community's traditional New Year festival with cultural programs and water festival.",
-      "country": "Bangladesh",
-      "type": "Ethnic Festival"
+      "name": "Eid al-Fitr Day 3",
+      "date": "2025-04-01",
+      "description": "Festival of breaking the fast (Eid al-Fitr)",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "Baisabi Festival (Chakma, Marma, Tripura)",
-      "date": "2025-04-13",
-      "description": "Joint celebration of the indigenous communities in the Chittagong Hill Tracts, marking their traditional New Year.",
-      "country": "Bangladesh",
-      "type": "Ethnic Festival"
+      "name": "Eid al-Fitr Day 1",
+      "date": "2026-03-20",
+      "description": "Festival of breaking the fast (Eid al-Fitr)",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "Pahela Baishakh (Bengali New Year)",
-      "date": "2025-04-14",
-      "description": "Bengali New Year celebration across Bangladesh with fairs, cultural events, and Mangal Shobhajatra.",
-      "country": "Bangladesh",
-      "type": "Festival"
+      "name": "Eid al-Fitr Day 2",
+      "date": "2026-03-21",
+      "description": "Festival of breaking the fast (Eid al-Fitr)",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "Eid ul-Adha",
+      "name": "Eid al-Fitr Day 3",
+      "date": "2026-03-22",
+      "description": "Festival of breaking the fast (Eid al-Fitr)",
+      "type": "Religious",
+      "recurring": false
+    },
+
+    {
+      "name": "Eid al-Adha Day 1",
       "date": "2025-06-06",
-      "description": "Islamic festival of sacrifice, commemorating the devotion of Ibrahim (Abraham).",
-      "country": "Bangladesh",
-      "type": "Festival"
+      "description": "Festival of Sacrifice (Eid al-Adha)",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "Ashari Purnima (Buddhist)",
-      "date": "2025-07-09",
-      "description": "Sacred Buddhist festival marking the start of Vassa (Buddhist Lent).",
-      "country": "Bangladesh",
-      "type": "Religious Festival"
+      "name": "Eid al-Adha Day 2",
+      "date": "2025-06-07",
+      "description": "Festival of Sacrifice (Eid al-Adha)",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "Durga Puja",
+      "name": "Eid al-Adha Day 3",
+      "date": "2025-06-08",
+      "description": "Festival of Sacrifice (Eid al-Adha)",
+      "type": "Religious",
+      "recurring": false
+    },
+
+    {
+      "name": "Durga Puja Day 1",
+      "date": "2025-09-30",
+      "description": "Durga Puja (Maha Ashtami)",
+      "type": "Religious",
+      "recurring": false
+    },
+    {
+      "name": "Durga Puja Day 2",
       "date": "2025-10-01",
-      "description": "Major Hindu festival celebrating Goddess Durga with colorful rituals and pujas.",
-      "country": "Bangladesh",
-      "type": "Festival"
+      "description": "Durga Puja ( Maha Navami )",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "Probarona Purnima (Buddhist)",
-      "date": "2025-10-07",
-      "description": "Buddhist festival observed by lighting lamps and floating paper lanterns in rivers.",
-      "country": "Bangladesh",
-      "type": "Religious Festival"
+      "name": "Durga Puja Day 3",
+      "date": "2025-10-02",
+      "description": "Durga Puja (Vijayadashami)",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "National Victory Day",
-      "date": "2025-12-16",
-      "description": "Marks the victory of Bangladesh over Pakistani forces in 1971.",
-      "country": "Bangladesh",
-      "type": "Public"
+      "name": "Durga Puja Day 1",
+      "date": "2026-10-18",
+      "description": "Durga Puja (Maha Ashtami)",
+      "type": "Religious",
+      "recurring": false
     },
     {
-      "name": "Christmas Day",
-      "date": "2025-12-25",
-      "description": "Christian community celebrates the birth of Jesus Christ.",
-      "country": "Bangladesh",
-      "type": "Religious Festival"
+      "name": "Durga Puja Day 2",
+      "date": "2026-10-19",
+      "description": "Durga Puja (Maha Navami)",
+      "type": "Religious",
+      "recurring": false
+    },
+    {
+      "name": "Durga Puja Day 3",
+      "date": "2026-10-20",
+      "description": "Durga Puja (Vijayadashami)",
+      "type": "Religious",
+      "recurring": false
     }
   ]
 }
